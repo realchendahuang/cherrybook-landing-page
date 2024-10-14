@@ -1,11 +1,11 @@
 {
 "Hero": {
-"h1": "Master Chinese Vocabulary with FlashMandarin",
-"h2": "Revolutionize your Chinese learning journey with our innovative flashcard app. Effortlessly expand your vocabulary and boost your confidence in Mandarin."
+"h1": "cherrybook",
+"h2": "Revolutionize your Chinese learning journey with flashcards that make mastering Mandarin vocabulary a breeze"
 },
 "Feature": {
-"h2": "Our Features",
-"h3": "Discover the Power of FlashMandarin",
+"h2": "Key Features",
+"h3": "Discover the Power of cherrybook",
 "description1": "Intuitive search with dual-column waterfall flow inspired by Xiaohongshu.",
 "description2": "Personalized review system to reinforce your learning.",
 "description3": "Create and share your own flashcards with the community."
@@ -14,33 +14,33 @@
 "h2": "Choose Your Plan",
 "h3": "Flexible Options for Every Learner",
 "description": "Select the plan that best fits your learning goals and budget.",
-"doYouLike": "Ready to elevate your Chinese vocabulary?",
+"doYouLike": "Ready to boost your Chinese vocabulary with cherrybook?",
 "follow": "Follow us on social media for daily language tips!"
 },
 "Testimonial": {
 "h2": "Success Stories",
 "h3": "Hear from Our Happy Learners",
-"description1": "Join thousands of satisfied users who have transformed their Chinese learning experience.",
-"description2": "Share your FlashMandarin journey",
+"description1": "Join thousands of satisfied users who have transformed their Chinese learning experience with cherrybook.",
+"description2": "Share your cherrybook learning journey",
 "description3": "and inspire others to achieve their language goals!"
 },
 "Faq": {
 "h2": "FAQ",
-"h3": "Common Questions About FlashMandarin",
+"h3": "Common Questions About cherrybook",
 "description": "Find answers to frequently asked questions about our app and Chinese learning methods."
 },
 "CTA": {
 "h2": "Start Your Chinese Adventure Today",
-"h3": "Download FlashMandarin now and unlock a world of linguistic possibilities!"
+"h3": "Download cherrybook now and unlock a world of linguistic possibilities!"
 },
 "CTAButton": {
 "btn1": "Download App",
 "btn2": "Learn More"
 },
 "About": {
-"h1": "About FlashMandarin",
+"h1": "About cherrybook",
 "h2": "We're a team of language enthusiasts and tech innovators committed to making Chinese learning accessible, enjoyable, and effective for everyone.",
-"why": "Why Choose FlashMandarin",
+"why": "Why Choose cherrybook",
 "why_content": "Our app combines cutting-edge technology with proven language learning methodologies, ensuring an engaging and efficient learning experience tailored to your needs.",
 "team": "Meet Our Team",
 "team_content": "Our diverse team of linguists, developers, and educators work tirelessly to bring you the best Chinese learning tools and resources available."
